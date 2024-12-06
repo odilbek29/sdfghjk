@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+
+header{
+    background-color: black;
+
+}
+
+header .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.bola{
+display: flex;
+align-items: center;
+gap: 15px;
+}
+.bola i{
+    color:  #F1A900;
+    font-size: 20px;
+}
+
+select{
+    background-color: black;
+border: none;
+color: white;
+font-size: 20px;
+
+}
+
+.btn{
+    width: 192px;
+height: 82px;
+background: #F1A900;
+font-size: 20px;
+font-weight: 700;
+line-height: 24.2px;
+}
+
+nav{
+    background: #222222;
+padding: 16px 0;
+}
+nav ul{
+display: flex;
+align-items: center;
+gap: 101px;
+list-style: none;
+justify-content: center;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.hero{
+    padding: 349px 0 142px;
+background-image:url("./image\ 5.png") ;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.btn-1{
+    display: flex;
+align-items: center;
+justify-content: center;
+gap: 60px;
+}
+
+.btn2{
+    background: #F1A900;
+    width: 235px;
+    height: 73px;
+font-size: 40px;
+font-weight: 700;
+line-height: 48.41px;
+border: none;
+}
+.btn3{
+    background: black;
+    color: white;
+    width: 235px;
+    height: 73px;
+font-size: 40px;
+font-weight: 700;
+line-height: 48.41px;
+border: none;
+}
+
+h1{
+font-size: 64px;
+font-weight: 700;
+line-height: 77.45px;
+text-align: center;
+color: white;
+width: 966px;
+height: 202px;
+padding:61px 0;
+background: #F1A90054;
+margin: 30px auto;
+}
+footer{
+    background-color: black;
+    padding: 27px 0;
+}
+
+footer .container{
+    display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+.d{
+    display: flex;
+    gap: 15px;
+    color: white;
+    font-size: 27px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
